@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #e4e4e4;
+  height: 100vh;
+}
+
+.Instructions {
+  padding: 20px;
+  background-color: hsl(120, 75%, 87%);
+  text-align: left;
+}
